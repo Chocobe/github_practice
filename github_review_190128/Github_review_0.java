@@ -4,6 +4,8 @@ public class Github_review_0 {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		System.out.println("Tell your World");
-		System.out.println("Tell his World");
+		// Fixed conflict between master and temp_branch.
+		System.out.println("Tell his World"); //
+		System.out.println("Tell her World"); //
 	}
 }
