@@ -1,3 +1,3 @@
 comment about this commit
 
-<package name - branch name> : comment
+<Name of package - Name of branch> : comment
