@@ -2,4 +2,4 @@ This repo is the place where I practice for Github
 
 <Name of package - Name of branch> : comment
 
-±ê Å×½ºÆ® ¼öÁ¤
+ê¹ƒ í…ŒìŠ¤íŠ¸ ìˆ˜ì • (ê¹ƒì—ì„œ)
